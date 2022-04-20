@@ -1,0 +1,19 @@
+body {
+    background: var(--light-accent);
+    font-family: var(--body-font);
+}
+.container {
+    width: 50%;
+    margin: 2em auto;
+    padding: 1em 3em 3em 3em;
+    border-radius: 1em;
+    background: white;
+    box-shadow: 2px 2px #ddd;
+}
+h1 {
+    margin: 0;
+    color: var(--main-accent);
+    font-family: 'Bowlby One', impact;
+    font-size: 4em;
+    text-align: center;
+}
